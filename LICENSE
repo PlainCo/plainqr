@@ -1,0 +1,42 @@
+PlainCo Source-Available License (Inspection Only)
+Version 1.0
+
+Copyright (c) 2026 PlainCo. All rights reserved.
+
+This source code is published so that it can be read, studied, audited and
+verified. IT IS NOT OPEN SOURCE. No licence under the Open Source Definition
+is granted, and no right to use this software is granted except as set out
+below.
+
+PERMITTED
+
+  1. You may view, read, study and analyse this source code.
+  2. You may fork this repository within GitHub, to the limited extent
+     GitHub's Terms of Service require of public repositories.
+  3. You may quote short excerpts for the purpose of commentary, criticism,
+     review, teaching, or security research, with attribution.
+  4. You may report vulnerabilities or defects you discover.
+
+NOT PERMITTED without prior written permission from the copyright holder
+
+  1. Using this software, or any part of it, in any product or service.
+  2. Copying, modifying, merging, publishing, distributing, sublicensing or
+     selling copies of this software or of any derivative work.
+  3. Compiling, packaging or distributing this software in any binary form.
+  4. Removing or altering this notice.
+
+Nothing here limits rights you have under applicable law that cannot be
+waived by licence, such as fair dealing, fair use, or the right to make
+observations under Article 5(3) of EU Directive 2009/24/EC.
+
+NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Permission requests and licensing enquiries: https://github.com/PlainCo
